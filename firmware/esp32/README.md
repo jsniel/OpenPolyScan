@@ -11,7 +11,7 @@ Le firmware permet :
 
 ---
 
-## ⚙️ Matériel nécessaire
+## Matériel nécessaire
 
 - ESP32 (type DevKit)
 - Capteur **SparkFun Triad AS7265x**
@@ -20,7 +20,7 @@ Le firmware permet :
 
 ---
 
-## 🔌 Connexions
+## Connexions
 
 | ESP32 | AS7265x |
 |------|--------|
@@ -29,11 +29,11 @@ Le firmware permet :
 | SDA  | SDA |
 | SCL  | SCL |
 
-⚠️ Vérifier que le capteur fonctionne en **3.3V**
+Vérifier que le capteur fonctionne en **3.3V**
 
 ---
 
-## 🧠 Principe de fonctionnement
+## Principe de fonctionnement
 
 Le firmware :
 
@@ -47,7 +47,7 @@ Le firmware :
 
 ---
 
-## 📡 Connexion au système
+## Connexion au système
 
 1. Allumer l’ESP32
 2. Se connecter au WiFi créé par l’ESP32
@@ -62,7 +62,7 @@ http://192.168.4.1
 
 ---
 
-## 🌐 Interface Web
+## Interface Web
 
 L’interface permet :
 
@@ -73,7 +73,7 @@ L’interface permet :
 
 ---
 
-## 📊 Format des données
+## Format des données
 
 Les données sont exportées sous forme de CSV :
 
@@ -87,7 +87,7 @@ PP;0,45;0,50;0,60;...
 
 ---
 
-## ▶️ Installation du firmware
+## Installation du firmware
 
 ### 1. Installer Arduino IDE
 
@@ -132,7 +132,7 @@ ESP32LocalCSVWebGenerator.ino
 
 ---
 
-## 🔧 Configuration (optionnelle)
+## Configuration (optionnelle)
 
 Dans le code, tu peux modifier :
 
@@ -142,7 +142,7 @@ Dans le code, tu peux modifier :
 
 ---
 
-## 🧪 Acquisition de données
+## Acquisition de données
 
 ### Étapes recommandées
 
@@ -155,7 +155,7 @@ Dans le code, tu peux modifier :
 
 ---
 
-## ⚠️ Bonnes pratiques
+## Bonnes pratiques
 
 - Toujours garder la même géométrie de mesure
 - Nettoyer les échantillons
@@ -164,7 +164,7 @@ Dans le code, tu peux modifier :
 
 ---
 
-## 🐞 Dépannage
+## Dépannage
 
 ### Le WiFi n’apparaît pas
 - Vérifier que l’ESP32 est alimenté
@@ -191,7 +191,7 @@ Voir le fichier LICENSE.md à la racine du projet.
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont bienvenues :
 
@@ -202,7 +202,7 @@ Les contributions sont bienvenues :
 
 ---
 
-## 🔬 Contexte
+## Contexte
 
 Ce firmware fait partie du projet OpenPolyScan,
 un système open source d’identification de plastiques à bas coût.
