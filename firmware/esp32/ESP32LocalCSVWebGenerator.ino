@@ -9,8 +9,8 @@
 AS7265X sensor;
 WebServer server(80);
 
-const char *ssid = "ESP32_AP";
-const char *password = "12345678";
+const char *ssid = "OpenPolyScan";
+const char *password = "atelierautonome";
 
 String fileName = "/default.csv";
 String lastLabel = "";  
