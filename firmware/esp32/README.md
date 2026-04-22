@@ -80,7 +80,7 @@ L’ESP32 expose une interface web accessible depuis un navigateur.
 ### Exemple d’interface
 
 <p align="center">
-  <img src="../../docs/images/webUI.png" width="500">
+  <img src="../../docs/images/webUI.png">
 </p>
 
 ---
