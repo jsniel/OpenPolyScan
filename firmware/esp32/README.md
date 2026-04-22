@@ -52,8 +52,9 @@ Le firmware :
 1. Allumer l’ESP32
 2. Se connecter au WiFi créé par l’ESP32
 
-Exemple :
+Par défaut :
 SSID : OpenPolyScan
+Password : atelierautonome
 
 3. Ouvrir un navigateur
 4. Aller à l’adresse :
