@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "OpenPolyScan"
+message: "If you use this project, please cite the repository and its authors."
+type: software
+authors:
+  - family-names: "Niel"
+    given-names: "Jean-Sébastien"
+  - name: "Atelier Autonome"
+license: "AGPL-3.0-or-later"
+repository-code: "https://github.com/USER/openpolyscan"
+abstract: "Open-source low-cost plastic recognition prototype based on AS7265x, ESP32 and machine learning."
