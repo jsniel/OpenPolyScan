@@ -73,6 +73,22 @@ Les performances dépendent fortement :
 
 ---
 
+## 📸 Aperçu du système
+
+### Prototype
+
+<p align="center">
+  <img src="docs/images/montage.png" width="500">
+</p>
+
+### Interface web embarquée
+
+<p align="center">
+  <img src="docs/images/webUI.png" width="500">
+</p>
+
+---
+
 ## Données actuelles
 
 Le dépôt contient un premier jeu de données avec :

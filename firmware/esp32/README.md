@@ -73,6 +73,18 @@ L’interface permet :
 
 ---
 
+## 🌐 Interface web
+
+L’ESP32 expose une interface web accessible depuis un navigateur.
+
+### Exemple d’interface
+
+<p align="center">
+  <img src="../../docs/images/webUI.png" width="500">
+</p>
+
+---
+
 ## 📊 Format des données
 
 Les données sont exportées sous forme de CSV :
