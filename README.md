@@ -73,18 +73,18 @@ Les performances dépendent fortement :
 
 ---
 
-## 📸 Aperçu du système
+## Aperçu du système
 
 ### Prototype
 
 <p align="center">
-  <img src="docs/images/montage.png" width="500">
+  <img src="docs/images/montage.jpg">
 </p>
 
 ### Interface web embarquée
 
 <p align="center">
-  <img src="docs/images/webUI.png" width="500">
+  <img src="docs/images/webUI.png">
 </p>
 
 ---
@@ -100,7 +100,7 @@ Ce dataset est fourni comme base d’expérimentation.
 
 ---
 
-## 🚀 Prise en main rapide
+## Prise en main rapide
 
 ### 1. Installation
 
