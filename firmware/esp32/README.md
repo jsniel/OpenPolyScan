@@ -73,7 +73,7 @@ L’interface permet :
 
 ---
 
-## 🌐 Interface web
+## Interface web
 
 L’ESP32 expose une interface web accessible depuis un navigateur.
 
@@ -85,7 +85,7 @@ L’ESP32 expose une interface web accessible depuis un navigateur.
 
 ---
 
-## 📊 Format des données
+## Format des données
 
 Les données sont exportées sous forme de CSV :
 
@@ -99,7 +99,7 @@ PP;0,45;0,50;0,60;...
 
 ---
 
-## ▶️ Installation du firmware
+## Installation du firmware
 
 ### 1. Installer Arduino IDE
 
@@ -144,7 +144,7 @@ ESP32LocalCSVWebGenerator.ino
 
 ---
 
-## 🔧 Configuration (optionnelle)
+## Configuration (optionnelle)
 
 Dans le code, tu peux modifier :
 
@@ -154,7 +154,7 @@ Dans le code, tu peux modifier :
 
 ---
 
-## 🧪 Acquisition de données
+## Acquisition de données
 
 ### Étapes recommandées
 
@@ -167,7 +167,7 @@ Dans le code, tu peux modifier :
 
 ---
 
-## ⚠️ Bonnes pratiques
+## Bonnes pratiques
 
 - Toujours garder la même géométrie de mesure
 - Nettoyer les échantillons
@@ -176,7 +176,7 @@ Dans le code, tu peux modifier :
 
 ---
 
-## 🐞 Dépannage
+## Dépannage
 
 ### Le WiFi n’apparaît pas
 - Vérifier que l’ESP32 est alimenté
@@ -203,7 +203,7 @@ Voir le fichier LICENSE.md à la racine du projet.
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont bienvenues :
 
@@ -214,7 +214,7 @@ Les contributions sont bienvenues :
 
 ---
 
-## 🔬 Contexte
+## Contexte
 
 Ce firmware fait partie du projet OpenPolyScan,
 un système open source d’identification de plastiques à bas coût.
